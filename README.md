@@ -5,6 +5,6 @@
 
 ## Additional resources
 
-- [https://github.com/kamath/student-free-stuff](Free software development tools for students)
+- [Free software development tools for students](https://github.com/kamath/student-free-stuff)
 
-- [https://github.com/dilum1995/cs-student-starter-pack](Computer science student starter pack)
+- [Computer science student starter pack](https://github.com/dilum1995/cs-student-starter-pack)
